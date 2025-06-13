@@ -72,7 +72,7 @@ All data was transformed and modeled using Power Query and linked via key relati
 ## 🚀 Getting Started
 
 1. Download or clone the repository
-2. Open the <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/Election%20Project.pbix">`.pbix` </a>file in Power BI Desktop
+2. Open the <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/Election%20Project.pbix">`Election.pbix` </a>file in Power BI Desktop
 3. Refresh data if needed
 4. Navigate via the **Landing Page** to explore dashboards
 
