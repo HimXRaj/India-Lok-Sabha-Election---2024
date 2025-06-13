@@ -59,11 +59,11 @@ An interactive Power BI dashboard analyzing the results of the **Indian General 
 
 ## 📁 Data Sources
 
-- `statewise_results.xlsx`(https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/statewise_results.xlsx)
-- `constituencywise_results.xlsx`
-- `partywise_results.xlsx`
-- `constituencywise_details.xlsx`
-- `states.xlsx`
+- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/statewise_results.xlsx">`statewise_results.xlsx`</a>
+- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/constituencywise_results.xlsx">`constituencywise_results.xlsx`</a>
+- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/partywise_results.xlsx">`partywise_results.xlsx`</a>
+- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/constituencywise_details.xlsx">`constituencywise_details.xlsx`</a>
+- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/states.xlsx">`states.xlsx`</a>
 
 All data was transformed and modeled using Power Query and linked via key relationships (State ID, Party ID, Constituency ID).
 
@@ -72,17 +72,17 @@ All data was transformed and modeled using Power Query and linked via key relati
 ## 🚀 Getting Started
 
 1. Download or clone the repository
-2. Open the `.pbix` file in Power BI Desktop
+2. Open the <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/Election%20Project.pbix">`.pbix` </a>file in Power BI Desktop
 3. Refresh data if needed
 4. Navigate via the **Landing Page** to explore dashboards
 
 ---
 
-## 👤 Author
+## 🙋‍♂️ Author
 
-**Created by**: Swapnjeet S (Data Tutorials)  
-**Project Execution & GitHub Setup**: [Your Name]  
-📧 Feel free to connect on [LinkedIn](https://www.linkedin.com)
+**Himanshu Rajput**  
+🔗 [LinkedIn](https://www.linkedin.com/in/himxraj)  
+📧 workfhimanshu@gmail.com
 
 ---
 
