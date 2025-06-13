@@ -1,4 +1,4 @@
-# 🇮🇳 Indian General Election 2024 – Power BI Dashboard
+# Indian General Election 2024 – Power BI Dashboard
 
 An interactive Power BI dashboard analyzing the results of the **Indian General Election 2024**, with insights into national, state, and constituency-level performance. The project breaks down election results by **alliances**, **parties**, and **candidates**, enabling users to explore trends through maps, charts, and dynamic filters.
 
@@ -59,7 +59,7 @@ An interactive Power BI dashboard analyzing the results of the **Indian General 
 
 ## 📁 Data Sources
 
-- `statewise_results.xlsx`
+- `statewise_results.xlsx`(https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/statewise_results.xlsx)
 - `constituencywise_results.xlsx`
 - `partywise_results.xlsx`
 - `constituencywise_details.xlsx`
