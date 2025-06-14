@@ -1,3 +1,4 @@
+<img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="40" height="40" />  
 # Indian General Election 2024 – Power BI Dashboard
 
 An interactive Power BI dashboard analyzing the results of the **Indian General Election 2024**, with insights into national, state, and constituency-level performance. The project breaks down election results by **alliances**, **parties**, and **candidates**, enabling users to explore trends through maps, charts, and dynamic filters.
@@ -72,7 +73,7 @@ All data was transformed and modeled using Power Query and linked via key relati
 ## 🚀 Getting Started
 
 1. Download or clone the repository
-2. Open the <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/Election%20Project.pbix">`Election.pbix` </a>file in Power BI Desktop
+2. Open the <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/Election%20Project.pbix">`Election.pbix`</a>file in Power BI Desktop
 3. Refresh data if needed
 4. Navigate via the **Landing Page** to explore dashboards
 
