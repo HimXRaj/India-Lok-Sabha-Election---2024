@@ -1,4 +1,5 @@
-<img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="40" height="40" /> ## Indian General Election 2024 – Power BI Dashboard
+<img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="40" height="40" />  
+## Indian General Election 2024 – Power BI Dashboard
 
 An interactive Power BI dashboard analyzing the results of the **Indian General Election 2024**, with insights into national, state, and constituency-level performance. The project breaks down election results by **alliances**, **parties**, and **candidates**, enabling users to explore trends through maps, charts, and dynamic filters.
 
