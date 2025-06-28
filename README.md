@@ -59,11 +59,11 @@ An interactive Power BI dashboard analyzing the results of the **Indian General 
 
 ## 📁 Data Sources
 
-- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/statewise_results.xlsx">`statewise_results.xlsx`</a>
-- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/constituencywise_results.xlsx">`constituencywise_results.xlsx`</a>
-- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/partywise_results.xlsx">`partywise_results.xlsx`</a>
-- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/constituencywise_details.xlsx">`constituencywise_details.xlsx`</a>
-- <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/RAW_Excel_Files/states.xlsx">`states.xlsx`</a>
+- <a href="https://github.com/HimXRaj/Indian_General_Election-2024/blob/main/Election%20Project/RAW_Excel_Files/statewise_results.xlsx">`statewise_results.xlsx`</a>
+- <a href="https://github.com/HimXRaj/Indian_General_Election-2024/blob/main/Election%20Project/RAW_Excel_Files/constituencywise_results.xlsx">`constituencywise_results.xlsx`</a>
+- <a href="https://github.com/HimXRaj/Indian_General_Election-2024/blob/main/Election%20Project/RAW_Excel_Files/partywise_results.xlsx">`partywise_results.xlsx`</a>
+- <a href="https://github.com/HimXRaj/Indian_General_Election-2024/blob/main/Election%20Project/RAW_Excel_Files/constituencywise_details.xlsx">`constituencywise_details.xlsx`</a>
+- <a href="https://github.com/HimXRaj/Indian_General_Election-2024/blob/main/Election%20Project/RAW_Excel_Files/states.xlsx">`states.xlsx`</a>
 
 All data was transformed and modeled using Power Query and linked via key relationships (State ID, Party ID, Constituency ID).
 
@@ -72,7 +72,7 @@ All data was transformed and modeled using Power Query and linked via key relati
 ## 🚀 Getting Started
 
 1. Download or clone the repository
-2. Open the <a href="https://github.com/HimXRaj/India-Lok-Sabha-Election---2024/blob/main/Election%20Project.pbix">`Election.pbix`</a>file in Power BI Desktop
+2. Open the <a href="https://github.com/HimXRaj/Indian_General_Election-2024/blob/main/Election%20Project/Election%20Project.pbix">`Election.pbix`</a>file in Power BI Desktop
 3. Refresh data if needed
 4. Navigate via the **Landing Page** to explore dashboards
 
